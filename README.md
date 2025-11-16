@@ -5,7 +5,7 @@ You can use it between your own hosts.
 
 Benefits of this solution:
 
-1. You have need any additional software. You just use standart SSH
+1. You have not need any additional software. You just use standart SSH
 package which is installed on any linux.
 
 2. Your traffic looks like as trivial ssh-generated one.
