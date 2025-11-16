@@ -1,0 +1,10 @@
+[Match]
+Name=tun17
+
+[Address]
+Address=192.168.17.2
+Peer=192.168.17.1
+
+[Route]
+Destination=192.168.17.0/24
+Gateway=192.168.17.1
