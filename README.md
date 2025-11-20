@@ -13,4 +13,8 @@ package which is installed on any linux.
 WARNING! This feature will work with root access. Don't use
 this keys for standart ssh login.
 
+client/ - Client side with standart place of ssh config and keys
+server/ - Server side with standart place of ssh config and keys
 
+client-sys/ - Client variant with all configs in /etc/ssh directory
+server-sys/ - Server variant sys only place

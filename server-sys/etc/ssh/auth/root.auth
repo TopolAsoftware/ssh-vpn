@@ -1,0 +1,4 @@
+#
+# Add your real public key from client
+#
+tunnel="17",command="/bin/date",restrict ssh-ed25519 AAAA..... tunnel@clienthost
